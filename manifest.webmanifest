@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Laboratorio Emprende",
+  "short_name": "Emprende",
+  "description": "Simulador educativo para aprender a crear y gestionar un pequeño negocio.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#102f3b",
+  "theme_color": "#102f3b",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
